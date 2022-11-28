@@ -1,0 +1,34 @@
+.topic-expand-details:hover {
+    cursor: pointer;
+    color: blue;
+}
+
+.topic-list-card {
+    max-height: 72vh;
+    overflow-y: scroll;
+}
+
+.topic-selected-topic {
+    background-color: lightblue;
+}
+
+.topic-selected-intensity-light {
+    background-color: #d7e6fd;
+    /* background-color: #99d6dd; */
+    /* text-decoration: underline #99d6dd solid 3px; */
+    /* font-weight: 240; to lighten, since normal is 400 */
+}
+
+.topic-selected-intensity-med {
+    background-color: #a8cbff;
+    /* background-color: #6bc9db; */
+    /* text-decoration: underline #6bc9db solid 3px; */
+    /* font-weight: normal; */
+}
+
+.topic-selected-intensity-dark {
+    background-color: #64a2ff;
+    /* background-color: #00b5d6; */
+    /* text-decoration: underline #00b5d6 solid 3px; */
+    /* font-weight: bold; */
+}

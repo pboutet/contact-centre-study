@@ -1,0 +1,4732 @@
+{
+    "most_common": {
+      "1_gram": [
+        {
+          "rank": 1,
+          "occurences": 6454,
+          "phrase": "return"
+        },
+        {
+          "rank": 2,
+          "occurences": 4563,
+          "phrase": "doesn't"
+        },
+        {
+          "rank": 3,
+          "occurences": 3801,
+          "phrase": "would"
+        },
+        {
+          "rank": 4,
+          "occurences": 3680,
+          "phrase": "store"
+        },
+        {
+          "rank": 5,
+          "occurences": 3188,
+          "phrase": "help"
+        },
+        {
+          "rank": 6,
+          "occurences": 2921,
+          "phrase": "item"
+        },
+        {
+          "rank": 7,
+          "occurences": 2814,
+          "phrase": "thank"
+        },
+        {
+          "rank": 8,
+          "occurences": 2801,
+          "phrase": "sorry"
+        },
+        {
+          "rank": 9,
+          "occurences": 2575,
+          "phrase": "like"
+        },
+        {
+          "rank": 10,
+          "occurences": 2553,
+          "phrase": "please"
+        }
+      ],
+      "2_gram": [
+        {
+          "rank": 1,
+          "occurences": 1531,
+          "phrase": "sorry hear"
+        },
+        {
+          "rank": 2,
+          "occurences": 1329,
+          "phrase": "quality guarantee"
+        },
+        {
+          "rank": 3,
+          "occurences": 1283,
+          "phrase": "gift card"
+        },
+        {
+          "rank": 4,
+          "occurences": 1204,
+          "phrase": "help today"
+        },
+        {
+          "rank": 5,
+          "occurences": 1168,
+          "phrase": "message removed"
+        },
+        {
+          "rank": 6,
+          "occurences": 898,
+          "phrase": "wear tear"
+        },
+        {
+          "rank": 7,
+          "occurences": 892,
+          "phrase": "anything else"
+        },
+        {
+          "rank": 8,
+          "occurences": 830,
+          "phrase": "style number"
+        },
+        {
+          "rank": 9,
+          "occurences": 828,
+          "phrase": "set return"
+        },
+        {
+          "rank": 10,
+          "occurences": 822,
+          "phrase": "business days"
+        }
+      ],
+      "3_gram": [
+        {
+          "rank": 1,
+          "occurences": 711,
+          "phrase": "oh sorry hear"
+        },
+        {
+          "rank": 2,
+          "occurences": 493,
+          "phrase": "anything else help"
+        },
+        {
+          "rank": 3,
+          "occurences": 455,
+          "phrase": "returns subject review"
+        },
+        {
+          "rank": 4,
+          "occurences": 413,
+          "phrase": "else help today"
+        },
+        {
+          "rank": 5,
+          "occurences": 393,
+          "phrase": "fall quality guarantee"
+        },
+        {
+          "rank": 6,
+          "occurences": 376,
+          "phrase": "doesn't eligible return"
+        },
+        {
+          "rank": 7,
+          "occurences": 373,
+          "phrase": "address phone number"
+        },
+        {
+          "rank": 8,
+          "occurences": 364,
+          "phrase": "quality guarantee covers"
+        },
+        {
+          "rank": 9,
+          "occurences": 357,
+          "phrase": "covers manufacturing defects"
+        },
+        {
+          "rank": 10,
+          "occurences": 347,
+          "phrase": "natural wear tear"
+        }
+      ],
+      "4_gram": [
+        {
+          "rank": 1,
+          "occurences": 410,
+          "phrase": "anything else help today"
+        },
+        {
+          "rank": 2,
+          "occurences": 341,
+          "phrase": "quality guarantee covers manufacturing"
+        },
+        {
+          "rank": 3,
+          "occurences": 340,
+          "phrase": "promise covers manufacturing defects"
+        },
+        {
+          "rank": 4,
+          "occurences": 273,
+          "phrase": "doesn't fall quality guarantee"
+        },
+        {
+          "rank": 5,
+          "occurences": 269,
+          "phrase": "external force natural wear"
+        },
+        {
+          "rank": 6,
+          "occurences": 264,
+          "phrase": "shipping address phone number"
+        },
+        {
+          "rank": 7,
+          "occurences": 264,
+          "phrase": "damage external force natural"
+        },
+        {
+          "rank": 8,
+          "occurences": 264,
+          "phrase": "force natural wear tear"
+        },
+        {
+          "rank": 9,
+          "occurences": 238,
+          "phrase": "style number series letters"
+        },
+        {
+          "rank": 10,
+          "occurences": 238,
+          "phrase": "letters digits around size"
+        }
+      ],
+      "5_gram": [
+        {
+          "rank": 1,
+          "occurences": 337,
+          "phrase": "quality guarantee covers manufacturing defects"
+        },
+        {
+          "rank": 2,
+          "occurences": 264,
+          "phrase": "damage external force natural wear"
+        },
+        {
+          "rank": 3,
+          "occurences": 264,
+          "phrase": "external force natural wear tear"
+        },
+        {
+          "rank": 4,
+          "occurences": 235,
+          "phrase": "style number series letters digits"
+        },
+        {
+          "rank": 5,
+          "occurences": 235,
+          "phrase": "number series letters digits around"
+        },
+        {
+          "rank": 6,
+          "occurences": 235,
+          "phrase": "series letters digits around size"
+        },
+        {
+          "rank": 7,
+          "occurences": 229,
+          "phrase": "wear tear inevitably happen time"
+        },
+        {
+          "rank": 8,
+          "occurences": 226,
+          "phrase": "pockets style number series letters"
+        },
+        {
+          "rank": 9,
+          "occurences": 222,
+          "phrase": "love gear wear tear inevitably"
+        },
+        {
+          "rank": 10,
+          "occurences": 222,
+          "phrase": "gear wear tear inevitably happen"
+        }
+      ],
+      "6_gram": [
+        {
+          "rank": 1,
+          "occurences": 262,
+          "phrase": "damage external force natural wear tear"
+        },
+        {
+          "rank": 2,
+          "occurences": 235,
+          "phrase": "style number series letters digits around"
+        },
+        {
+          "rank": 3,
+          "occurences": 234,
+          "phrase": "number series letters digits around size"
+        },
+        {
+          "rank": 4,
+          "occurences": 224,
+          "phrase": "pockets style number series letters digits"
+        },
+        {
+          "rank": 5,
+          "occurences": 222,
+          "phrase": "love gear wear tear inevitably happen"
+        },
+        {
+          "rank": 6,
+          "occurences": 222,
+          "phrase": "gear wear tear inevitably happen time"
+        },
+        {
+          "rank": 7,
+          "occurences": 214,
+          "phrase": "timeproof love gear wear tear inevitably"
+        },
+        {
+          "rank": 8,
+          "occurences": 189,
+          "phrase": "used online instore never expire depreciate"
+        },
+        {
+          "rank": 9,
+          "occurences": 189,
+          "phrase": "online instore never expire depreciate value"
+        },
+        {
+          "rank": 10,
+          "occurences": 186,
+          "phrase": "cards used online instore never expire"
+        }
+      ],
+      "7_gram": [
+        {
+          "rank": 1,
+          "occurences": 234,
+          "phrase": "style number series letters digits around size"
+        },
+        {
+          "rank": 2,
+          "occurences": 224,
+          "phrase": "pockets style number series letters digits around"
+        },
+        {
+          "rank": 3,
+          "occurences": 222,
+          "phrase": "love gear wear tear inevitably happen time"
+        },
+        {
+          "rank": 4,
+          "occurences": 214,
+          "phrase": "timeproof love gear wear tear inevitably happen"
+        },
+        {
+          "rank": 5,
+          "occurences": 186,
+          "phrase": "cards used online instore never expire depreciate"
+        },
+        {
+          "rank": 6,
+          "occurences": 186,
+          "phrase": "used online instore never expire depreciate value"
+        },
+        {
+          "rank": 7,
+          "occurences": 184,
+          "phrase": "gift cards used online instore never expire"
+        },
+        {
+          "rank": 8,
+          "occurences": 182,
+          "phrase": "quality guarantee covers manufacturing defects doesn't cover"
+        },
+        {
+          "rank": 9,
+          "occurences": 180,
+          "phrase": "promise covers manufacturing defects doesn't cover damage"
+        },
+        {
+          "rank": 10,
+          "occurences": 179,
+          "phrase": "cover damage external force natural wear tear"
+        }
+      ],
+      "8_gram": [
+        {
+          "rank": 1,
+          "occurences": 223,
+          "phrase": "pockets style number series letters digits around size"
+        },
+        {
+          "rank": 2,
+          "occurences": 214,
+          "phrase": "timeproof love gear wear tear inevitably happen time"
+        },
+        {
+          "rank": 3,
+          "occurences": 185,
+          "phrase": "cards used online instore never expire depreciate value"
+        },
+        {
+          "rank": 4,
+          "occurences": 184,
+          "phrase": "gift cards used online instore never expire depreciate"
+        },
+        {
+          "rank": 5,
+          "occurences": 180,
+          "phrase": "quality guarantee covers manufacturing defects doesn't cover damage"
+        },
+        {
+          "rank": 6,
+          "occurences": 176,
+          "phrase": "damage external force natural wear tear fit preference"
+        },
+        {
+          "rank": 7,
+          "occurences": 175,
+          "phrase": "cover damage external force natural wear tear fit"
+        },
+        {
+          "rank": 8,
+          "occurences": 174,
+          "phrase": "doesn't cover damage external force natural wear tear"
+        },
+        {
+          "rank": 9,
+          "occurences": 172,
+          "phrase": "covers manufacturing defects doesn't cover damage external force"
+        },
+        {
+          "rank": 10,
+          "occurences": 170,
+          "phrase": "promise covers manufacturing defects doesn't cover damage external"
+        }
+      ]
+    },
+    "intensity": {
+      "1_gram": [
+        {
+          "rank": 1,
+          "occurences": 6454,
+          "phrase": [
+            {
+              "text": "return",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "occurences": 4563,
+          "phrase": [
+            {
+              "text": "doesn't",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "occurences": 3801,
+          "phrase": [
+            {
+              "text": "would",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "occurences": 3680,
+          "phrase": [
+            {
+              "text": "store",
+              "intensity": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "occurences": 3188,
+          "phrase": [
+            {
+              "text": "help",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "occurences": 2921,
+          "phrase": [
+            {
+              "text": "item",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "occurences": 2814,
+          "phrase": [
+            {
+              "text": "thank",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "occurences": 2801,
+          "phrase": [
+            {
+              "text": "sorry",
+              "intensity": 1
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "occurences": 2575,
+          "phrase": [
+            {
+              "text": "like",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "occurences": 2553,
+          "phrase": [
+            {
+              "text": "please",
+              "intensity": 1
+            }
+          ]
+        }
+      ],
+      "2_gram": [
+        {
+          "rank": 1,
+          "occurences": 1531,
+          "phrase": [
+            {
+              "text": "sorry",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "hear",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "occurences": 1329,
+          "phrase": [
+            {
+              "text": "quality",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "promise",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "occurences": 1283,
+          "phrase": [
+            {
+              "text": "gift",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "card",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "occurences": 1204,
+          "phrase": [
+            {
+              "text": "help",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "today",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "occurences": 1168,
+          "phrase": [
+            {
+              "text": "message",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "removed",
+              "intensity": 0
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "occurences": 898,
+          "phrase": [
+            {
+              "text": "wear",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "tear",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "occurences": 892,
+          "phrase": [
+            {
+              "text": "anything",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "else",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "occurences": 830,
+          "phrase": [
+            {
+              "text": "style",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "number",
+              "intensity": 0
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "occurences": 828,
+          "phrase": [
+            {
+              "text": "set",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "return",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "occurences": 822,
+          "phrase": [
+            {
+              "text": "business",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "days",
+              "intensity": 2
+            }
+          ]
+        }
+      ],
+      "3_gram": [
+        {
+          "rank": 1,
+          "occurences": 711,
+          "phrase": [
+            {
+              "text": "oh",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "sorry",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "hear",
+              "intensity": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "occurences": 493,
+          "phrase": [
+            {
+              "text": "anything",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "else",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "help",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "occurences": 455,
+          "phrase": [
+            {
+              "text": "returns",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "subject",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "review",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "occurences": 413,
+          "phrase": [
+            {
+              "text": "else",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "help",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "today",
+              "intensity": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "occurences": 393,
+          "phrase": [
+            {
+              "text": "fall",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "quality",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "promise",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "occurences": 376,
+          "phrase": [
+            {
+              "text": "doesn't",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "eligible",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "return",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "occurences": 373,
+          "phrase": [
+            {
+              "text": "address",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "phone",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "number",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "occurences": 364,
+          "phrase": [
+            {
+              "text": "quality",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "promise",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "covers",
+              "intensity": 0
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "occurences": 357,
+          "phrase": [
+            {
+              "text": "covers",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "manufacturing",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "defects",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "occurences": 347,
+          "phrase": [
+            {
+              "text": "natural",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "wear",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "tear",
+              "intensity": 0
+            }
+          ]
+        }
+      ],
+      "4_gram": [
+        {
+          "rank": 1,
+          "occurences": 410,
+          "phrase": [
+            {
+              "text": "anything",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "else",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "help",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "today",
+              "intensity": 0
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "occurences": 341,
+          "phrase": [
+            {
+              "text": "quality",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "promise",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "covers",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "manufacturing",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "occurences": 340,
+          "phrase": [
+            {
+              "text": "promise",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "covers",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "manufacturing",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "defects",
+              "intensity": 0
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "occurences": 273,
+          "phrase": [
+            {
+              "text": "doesn't",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "fall",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "quality",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "promise",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "occurences": 269,
+          "phrase": [
+            {
+              "text": "external",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "force",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "natural",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "wear",
+              "intensity": 1
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "occurences": 264,
+          "phrase": [
+            {
+              "text": "shipping",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "address",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "phone",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "number",
+              "intensity": 1
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "occurences": 264,
+          "phrase": [
+            {
+              "text": "damage",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "external",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "force",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "natural",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "occurences": 264,
+          "phrase": [
+            {
+              "text": "force",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "natural",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "wear",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "tear",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "occurences": 238,
+          "phrase": [
+            {
+              "text": "style",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "number",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "series",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "letters",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "occurences": 238,
+          "phrase": [
+            {
+              "text": "letters",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "digits",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "around",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "size",
+              "intensity": 2
+            }
+          ]
+        }
+      ],
+      "5_gram": [
+        {
+          "rank": 1,
+          "occurences": 337,
+          "phrase": [
+            {
+              "text": "quality",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "promise",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "covers",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "manufacturing",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "defects",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "occurences": 264,
+          "phrase": [
+            {
+              "text": "damage",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "external",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "force",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "natural",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "wear",
+              "intensity": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "occurences": 264,
+          "phrase": [
+            {
+              "text": "external",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "force",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "natural",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "wear",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "tear",
+              "intensity": 0
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "occurences": 235,
+          "phrase": [
+            {
+              "text": "style",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "number",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "series",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "letters",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "digits",
+              "intensity": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "occurences": 235,
+          "phrase": [
+            {
+              "text": "number",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "series",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "letters",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "digits",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "around",
+              "intensity": 1
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "occurences": 235,
+          "phrase": [
+            {
+              "text": "series",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "letters",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "digits",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "around",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "size",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "occurences": 229,
+          "phrase": [
+            {
+              "text": "wear",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "tear",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "inevitably",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "happen",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "time",
+              "intensity": 0
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "occurences": 226,
+          "phrase": [
+            {
+              "text": "pockets",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "style",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "number",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "series",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "letters",
+              "intensity": 1
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "occurences": 222,
+          "phrase": [
+            {
+              "text": "love",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "gear",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "wear",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "tear",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "inevitably",
+              "intensity": 1
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "occurences": 222,
+          "phrase": [
+            {
+              "text": "gear",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "wear",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "tear",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "inevitably",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "happen",
+              "intensity": 0
+            }
+          ]
+        }
+      ],
+      "6_gram": [
+        {
+          "rank": 1,
+          "occurences": 262,
+          "phrase": [
+            {
+              "text": "damage",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "external",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "force",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "natural",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "wear",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "tear",
+              "intensity": 0
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "occurences": 235,
+          "phrase": [
+            {
+              "text": "style",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "number",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "series",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "letters",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "digits",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "around",
+              "intensity": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "occurences": 234,
+          "phrase": [
+            {
+              "text": "number",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "series",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "letters",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "digits",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "around",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "size",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "occurences": 224,
+          "phrase": [
+            {
+              "text": "pockets",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "style",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "number",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "series",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "letters",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "digits",
+              "intensity": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "occurences": 222,
+          "phrase": [
+            {
+              "text": "love",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "gear",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "wear",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "tear",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "inevitably",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "happen",
+              "intensity": 1
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "occurences": 222,
+          "phrase": [
+            {
+              "text": "gear",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "wear",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "tear",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "inevitably",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "happen",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "time",
+              "intensity": 0
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "occurences": 214,
+          "phrase": [
+            {
+              "text": "timeproof",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "love",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "gear",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "wear",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "tear",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "inevitably",
+              "intensity": 1
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "occurences": 189,
+          "phrase": [
+            {
+              "text": "used",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "online",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "instore",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "never",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "expire",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "depreciate",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "occurences": 189,
+          "phrase": [
+            {
+              "text": "online",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "instore",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "never",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "expire",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "depreciate",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "value",
+              "intensity": 0
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "occurences": 186,
+          "phrase": [
+            {
+              "text": "cards",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "used",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "online",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "instore",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "never",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "expire",
+              "intensity": 0
+            }
+          ]
+        }
+      ],
+      "7_gram": [
+        {
+          "rank": 1,
+          "occurences": 234,
+          "phrase": [
+            {
+              "text": "style",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "number",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "series",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "letters",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "digits",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "around",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "size",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "occurences": 224,
+          "phrase": [
+            {
+              "text": "pockets",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "style",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "number",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "series",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "letters",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "digits",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "around",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "occurences": 222,
+          "phrase": [
+            {
+              "text": "love",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "gear",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "wear",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "tear",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "inevitably",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "happen",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "time",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "occurences": 214,
+          "phrase": [
+            {
+              "text": "timeproof",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "love",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "gear",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "wear",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "tear",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "inevitably",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "happen",
+              "intensity": 0
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "occurences": 186,
+          "phrase": [
+            {
+              "text": "cards",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "used",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "online",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "instore",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "never",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "expire",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "depreciate",
+              "intensity": 1
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "occurences": 186,
+          "phrase": [
+            {
+              "text": "used",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "online",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "instore",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "never",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "expire",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "depreciate",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "value",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "occurences": 184,
+          "phrase": [
+            {
+              "text": "gift",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "cards",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "used",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "online",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "instore",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "never",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "expire",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "occurences": 182,
+          "phrase": [
+            {
+              "text": "quality",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "promise",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "covers",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "manufacturing",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "defects",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "doesn't",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "cover",
+              "intensity": 1
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "occurences": 180,
+          "phrase": [
+            {
+              "text": "promise",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "covers",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "manufacturing",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "defects",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "doesn't",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "cover",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "damage",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "occurences": 179,
+          "phrase": [
+            {
+              "text": "cover",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "damage",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "external",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "force",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "natural",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "wear",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "tear",
+              "intensity": 0
+            }
+          ]
+        }
+      ],
+      "8_gram": [
+        {
+          "rank": 1,
+          "occurences": 223,
+          "phrase": [
+            {
+              "text": "pockets",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "style",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "number",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "series",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "letters",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "digits",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "around",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "size",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "occurences": 214,
+          "phrase": [
+            {
+              "text": "timeproof",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "love",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "gear",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "wear",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "tear",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "inevitably",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "happen",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "time",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "occurences": 185,
+          "phrase": [
+            {
+              "text": "cards",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "used",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "online",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "instore",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "never",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "expire",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "depreciate",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "value",
+              "intensity": 3
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "occurences": 184,
+          "phrase": [
+            {
+              "text": "gift",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "cards",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "used",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "online",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "instore",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "never",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "expire",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "depreciate",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "occurences": 180,
+          "phrase": [
+            {
+              "text": "quality",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "promise",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "covers",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "manufacturing",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "defects",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "doesn't",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "cover",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "damage",
+              "intensity": 0
+            }
+          ]
+        },
+        {
+          "rank": 6,
+          "occurences": 176,
+          "phrase": [
+            {
+              "text": "damage",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "external",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "force",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "natural",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "wear",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "tear",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "fit",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "preference",
+              "intensity": 0
+            }
+          ]
+        },
+        {
+          "rank": 7,
+          "occurences": 175,
+          "phrase": [
+            {
+              "text": "cover",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "damage",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "external",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "force",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "natural",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "wear",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "tear",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "fit",
+              "intensity": 1
+            }
+          ]
+        },
+        {
+          "rank": 8,
+          "occurences": 174,
+          "phrase": [
+            {
+              "text": "doesn't",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "cover",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "damage",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "external",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "force",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "natural",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "wear",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "tear",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 9,
+          "occurences": 172,
+          "phrase": [
+            {
+              "text": "covers",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "manufacturing",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "defects",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "doesn't",
+              "intensity": 1
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "cover",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "damage",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "external",
+              "intensity": 0
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "force",
+              "intensity": 2
+            }
+          ]
+        },
+        {
+          "rank": 10,
+          "occurences": 170,
+          "phrase": [
+            {
+              "text": "promise",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "covers",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "manufacturing",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "defects",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "doesn't",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "cover",
+              "intensity": 2
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "damage",
+              "intensity": 3
+            },
+            {
+              "text": " ",
+              "intensity": 0
+            },
+            {
+              "text": "external",
+              "intensity": 2
+            }
+          ]
+        }
+      ]
+    },
+    "positive_phrases": {
+      "1_gram": [
+        {
+          "rank": 1,
+          "occurences": 6454,
+          "phrase": "return"
+        },
+        {
+          "rank": 2,
+          "occurences": 4563,
+          "phrase": "doesn't"
+        },
+        {
+          "rank": 3,
+          "occurences": 3801,
+          "phrase": "would"
+        },
+        {
+          "rank": 4,
+          "occurences": 3680,
+          "phrase": "store"
+        },
+        {
+          "rank": 5,
+          "occurences": 3188,
+          "phrase": "help"
+        },
+        {
+          "rank": 6,
+          "occurences": 2921,
+          "phrase": "item"
+        },
+        {
+          "rank": 7,
+          "occurences": 2814,
+          "phrase": "thank"
+        },
+        {
+          "rank": 8,
+          "occurences": 2801,
+          "phrase": "sorry"
+        },
+        {
+          "rank": 9,
+          "occurences": 2575,
+          "phrase": "like"
+        },
+        {
+          "rank": 10,
+          "occurences": 2553,
+          "phrase": "please"
+        }
+      ],
+      "2_gram": [
+        {
+          "rank": 1,
+          "occurences": 1531,
+          "phrase": "sorry hear"
+        },
+        {
+          "rank": 2,
+          "occurences": 1329,
+          "phrase": "quality guarantee"
+        },
+        {
+          "rank": 3,
+          "occurences": 1283,
+          "phrase": "gift card"
+        },
+        {
+          "rank": 4,
+          "occurences": 1204,
+          "phrase": "help today"
+        },
+        {
+          "rank": 5,
+          "occurences": 1168,
+          "phrase": "message removed"
+        },
+        {
+          "rank": 6,
+          "occurences": 898,
+          "phrase": "wear tear"
+        },
+        {
+          "rank": 7,
+          "occurences": 892,
+          "phrase": "anything else"
+        },
+        {
+          "rank": 8,
+          "occurences": 830,
+          "phrase": "style number"
+        },
+        {
+          "rank": 9,
+          "occurences": 828,
+          "phrase": "set return"
+        },
+        {
+          "rank": 10,
+          "occurences": 822,
+          "phrase": "business days"
+        }
+      ],
+      "3_gram": [
+        {
+          "rank": 1,
+          "occurences": 711,
+          "phrase": "oh sorry hear"
+        },
+        {
+          "rank": 2,
+          "occurences": 493,
+          "phrase": "anything else help"
+        },
+        {
+          "rank": 3,
+          "occurences": 455,
+          "phrase": "returns subject review"
+        },
+        {
+          "rank": 4,
+          "occurences": 413,
+          "phrase": "else help today"
+        },
+        {
+          "rank": 5,
+          "occurences": 393,
+          "phrase": "fall quality guarantee"
+        },
+        {
+          "rank": 6,
+          "occurences": 376,
+          "phrase": "doesn't eligible return"
+        },
+        {
+          "rank": 7,
+          "occurences": 373,
+          "phrase": "address phone number"
+        },
+        {
+          "rank": 8,
+          "occurences": 364,
+          "phrase": "quality guarantee covers"
+        },
+        {
+          "rank": 9,
+          "occurences": 357,
+          "phrase": "covers manufacturing defects"
+        },
+        {
+          "rank": 10,
+          "occurences": 347,
+          "phrase": "natural wear tear"
+        }
+      ],
+      "4_gram": [
+        {
+          "rank": 1,
+          "occurences": 410,
+          "phrase": "anything else help today"
+        },
+        {
+          "rank": 2,
+          "occurences": 341,
+          "phrase": "quality guarantee covers manufacturing"
+        },
+        {
+          "rank": 3,
+          "occurences": 340,
+          "phrase": "promise covers manufacturing defects"
+        },
+        {
+          "rank": 4,
+          "occurences": 273,
+          "phrase": "doesn't fall quality guarantee"
+        },
+        {
+          "rank": 5,
+          "occurences": 269,
+          "phrase": "external force natural wear"
+        },
+        {
+          "rank": 6,
+          "occurences": 264,
+          "phrase": "shipping address phone number"
+        },
+        {
+          "rank": 7,
+          "occurences": 264,
+          "phrase": "damage external force natural"
+        },
+        {
+          "rank": 8,
+          "occurences": 264,
+          "phrase": "force natural wear tear"
+        },
+        {
+          "rank": 9,
+          "occurences": 238,
+          "phrase": "style number series letters"
+        },
+        {
+          "rank": 10,
+          "occurences": 238,
+          "phrase": "letters digits around size"
+        }
+      ],
+      "5_gram": [
+        {
+          "rank": 1,
+          "occurences": 337,
+          "phrase": "quality guarantee covers manufacturing defects"
+        },
+        {
+          "rank": 2,
+          "occurences": 264,
+          "phrase": "damage external force natural wear"
+        },
+        {
+          "rank": 3,
+          "occurences": 264,
+          "phrase": "external force natural wear tear"
+        },
+        {
+          "rank": 4,
+          "occurences": 235,
+          "phrase": "style number series letters digits"
+        },
+        {
+          "rank": 5,
+          "occurences": 235,
+          "phrase": "number series letters digits around"
+        },
+        {
+          "rank": 6,
+          "occurences": 235,
+          "phrase": "series letters digits around size"
+        },
+        {
+          "rank": 7,
+          "occurences": 229,
+          "phrase": "wear tear inevitably happen time"
+        },
+        {
+          "rank": 8,
+          "occurences": 226,
+          "phrase": "pockets style number series letters"
+        },
+        {
+          "rank": 9,
+          "occurences": 222,
+          "phrase": "love gear wear tear inevitably"
+        },
+        {
+          "rank": 10,
+          "occurences": 222,
+          "phrase": "gear wear tear inevitably happen"
+        }
+      ],
+      "6_gram": [
+        {
+          "rank": 1,
+          "occurences": 262,
+          "phrase": "damage external force natural wear tear"
+        },
+        {
+          "rank": 2,
+          "occurences": 235,
+          "phrase": "style number series letters digits around"
+        },
+        {
+          "rank": 3,
+          "occurences": 234,
+          "phrase": "number series letters digits around size"
+        },
+        {
+          "rank": 4,
+          "occurences": 224,
+          "phrase": "pockets style number series letters digits"
+        },
+        {
+          "rank": 5,
+          "occurences": 222,
+          "phrase": "love gear wear tear inevitably happen"
+        },
+        {
+          "rank": 6,
+          "occurences": 222,
+          "phrase": "gear wear tear inevitably happen time"
+        },
+        {
+          "rank": 7,
+          "occurences": 214,
+          "phrase": "timeproof love gear wear tear inevitably"
+        },
+        {
+          "rank": 8,
+          "occurences": 189,
+          "phrase": "used online instore never expire depreciate"
+        },
+        {
+          "rank": 9,
+          "occurences": 189,
+          "phrase": "online instore never expire depreciate value"
+        },
+        {
+          "rank": 10,
+          "occurences": 186,
+          "phrase": "cards used online instore never expire"
+        }
+      ],
+      "7_gram": [
+        {
+          "rank": 1,
+          "occurences": 234,
+          "phrase": "style number series letters digits around size"
+        },
+        {
+          "rank": 2,
+          "occurences": 224,
+          "phrase": "pockets style number series letters digits around"
+        },
+        {
+          "rank": 3,
+          "occurences": 222,
+          "phrase": "love gear wear tear inevitably happen time"
+        },
+        {
+          "rank": 4,
+          "occurences": 214,
+          "phrase": "timeproof love gear wear tear inevitably happen"
+        },
+        {
+          "rank": 5,
+          "occurences": 186,
+          "phrase": "cards used online instore never expire depreciate"
+        },
+        {
+          "rank": 6,
+          "occurences": 186,
+          "phrase": "used online instore never expire depreciate value"
+        },
+        {
+          "rank": 7,
+          "occurences": 184,
+          "phrase": "gift cards used online instore never expire"
+        },
+        {
+          "rank": 8,
+          "occurences": 182,
+          "phrase": "quality guarantee covers manufacturing defects doesn't cover"
+        },
+        {
+          "rank": 9,
+          "occurences": 180,
+          "phrase": "promise covers manufacturing defects doesn't cover damage"
+        },
+        {
+          "rank": 10,
+          "occurences": 179,
+          "phrase": "cover damage external force natural wear tear"
+        }
+      ],
+      "8_gram": [
+        {
+          "rank": 1,
+          "occurences": 223,
+          "phrase": "pockets style number series letters digits around size"
+        },
+        {
+          "rank": 2,
+          "occurences": 214,
+          "phrase": "timeproof love gear wear tear inevitably happen time"
+        },
+        {
+          "rank": 3,
+          "occurences": 185,
+          "phrase": "cards used online instore never expire depreciate value"
+        },
+        {
+          "rank": 4,
+          "occurences": 184,
+          "phrase": "gift cards used online instore never expire depreciate"
+        },
+        {
+          "rank": 5,
+          "occurences": 180,
+          "phrase": "quality guarantee covers manufacturing defects doesn't cover damage"
+        },
+        {
+          "rank": 6,
+          "occurences": 176,
+          "phrase": "damage external force natural wear tear fit preference"
+        },
+        {
+          "rank": 7,
+          "occurences": 175,
+          "phrase": "cover damage external force natural wear tear fit"
+        },
+        {
+          "rank": 8,
+          "occurences": 174,
+          "phrase": "doesn't cover damage external force natural wear tear"
+        },
+        {
+          "rank": 9,
+          "occurences": 172,
+          "phrase": "covers manufacturing defects doesn't cover damage external force"
+        },
+        {
+          "rank": 10,
+          "occurences": 170,
+          "phrase": "promise covers manufacturing defects doesn't cover damage external"
+        }
+      ]
+    },
+    "neurtal_phrases": {
+      "1_gram": [
+        {
+          "rank": 1,
+          "occurences": 6454,
+          "phrase": "return"
+        },
+        {
+          "rank": 2,
+          "occurences": 4563,
+          "phrase": "doesn't"
+        },
+        {
+          "rank": 3,
+          "occurences": 3801,
+          "phrase": "would"
+        },
+        {
+          "rank": 4,
+          "occurences": 3680,
+          "phrase": "store"
+        },
+        {
+          "rank": 5,
+          "occurences": 3188,
+          "phrase": "help"
+        },
+        {
+          "rank": 6,
+          "occurences": 2921,
+          "phrase": "item"
+        },
+        {
+          "rank": 7,
+          "occurences": 2814,
+          "phrase": "thank"
+        },
+        {
+          "rank": 8,
+          "occurences": 2801,
+          "phrase": "sorry"
+        },
+        {
+          "rank": 9,
+          "occurences": 2575,
+          "phrase": "like"
+        },
+        {
+          "rank": 10,
+          "occurences": 2553,
+          "phrase": "please"
+        }
+      ],
+      "2_gram": [
+        {
+          "rank": 1,
+          "occurences": 1531,
+          "phrase": "sorry hear"
+        },
+        {
+          "rank": 2,
+          "occurences": 1329,
+          "phrase": "quality guarantee"
+        },
+        {
+          "rank": 3,
+          "occurences": 1283,
+          "phrase": "gift card"
+        },
+        {
+          "rank": 4,
+          "occurences": 1204,
+          "phrase": "help today"
+        },
+        {
+          "rank": 5,
+          "occurences": 1168,
+          "phrase": "message removed"
+        },
+        {
+          "rank": 6,
+          "occurences": 898,
+          "phrase": "wear tear"
+        },
+        {
+          "rank": 7,
+          "occurences": 892,
+          "phrase": "anything else"
+        },
+        {
+          "rank": 8,
+          "occurences": 830,
+          "phrase": "style number"
+        },
+        {
+          "rank": 9,
+          "occurences": 828,
+          "phrase": "set return"
+        },
+        {
+          "rank": 10,
+          "occurences": 822,
+          "phrase": "business days"
+        }
+      ],
+      "3_gram": [
+        {
+          "rank": 1,
+          "occurences": 711,
+          "phrase": "oh sorry hear"
+        },
+        {
+          "rank": 2,
+          "occurences": 493,
+          "phrase": "anything else help"
+        },
+        {
+          "rank": 3,
+          "occurences": 455,
+          "phrase": "returns subject review"
+        },
+        {
+          "rank": 4,
+          "occurences": 413,
+          "phrase": "else help today"
+        },
+        {
+          "rank": 5,
+          "occurences": 393,
+          "phrase": "fall quality guarantee"
+        },
+        {
+          "rank": 6,
+          "occurences": 376,
+          "phrase": "doesn't eligible return"
+        },
+        {
+          "rank": 7,
+          "occurences": 373,
+          "phrase": "address phone number"
+        },
+        {
+          "rank": 8,
+          "occurences": 364,
+          "phrase": "quality guarantee covers"
+        },
+        {
+          "rank": 9,
+          "occurences": 357,
+          "phrase": "covers manufacturing defects"
+        },
+        {
+          "rank": 10,
+          "occurences": 347,
+          "phrase": "natural wear tear"
+        }
+      ],
+      "4_gram": [
+        {
+          "rank": 1,
+          "occurences": 410,
+          "phrase": "anything else help today"
+        },
+        {
+          "rank": 2,
+          "occurences": 341,
+          "phrase": "quality guarantee covers manufacturing"
+        },
+        {
+          "rank": 3,
+          "occurences": 340,
+          "phrase": "promise covers manufacturing defects"
+        },
+        {
+          "rank": 4,
+          "occurences": 273,
+          "phrase": "doesn't fall quality guarantee"
+        },
+        {
+          "rank": 5,
+          "occurences": 269,
+          "phrase": "external force natural wear"
+        },
+        {
+          "rank": 6,
+          "occurences": 264,
+          "phrase": "shipping address phone number"
+        },
+        {
+          "rank": 7,
+          "occurences": 264,
+          "phrase": "damage external force natural"
+        },
+        {
+          "rank": 8,
+          "occurences": 264,
+          "phrase": "force natural wear tear"
+        },
+        {
+          "rank": 9,
+          "occurences": 238,
+          "phrase": "style number series letters"
+        },
+        {
+          "rank": 10,
+          "occurences": 238,
+          "phrase": "letters digits around size"
+        }
+      ],
+      "5_gram": [
+        {
+          "rank": 1,
+          "occurences": 337,
+          "phrase": "quality guarantee covers manufacturing defects"
+        },
+        {
+          "rank": 2,
+          "occurences": 264,
+          "phrase": "damage external force natural wear"
+        },
+        {
+          "rank": 3,
+          "occurences": 264,
+          "phrase": "external force natural wear tear"
+        },
+        {
+          "rank": 4,
+          "occurences": 235,
+          "phrase": "style number series letters digits"
+        },
+        {
+          "rank": 5,
+          "occurences": 235,
+          "phrase": "number series letters digits around"
+        },
+        {
+          "rank": 6,
+          "occurences": 235,
+          "phrase": "series letters digits around size"
+        },
+        {
+          "rank": 7,
+          "occurences": 229,
+          "phrase": "wear tear inevitably happen time"
+        },
+        {
+          "rank": 8,
+          "occurences": 226,
+          "phrase": "pockets style number series letters"
+        },
+        {
+          "rank": 9,
+          "occurences": 222,
+          "phrase": "love gear wear tear inevitably"
+        },
+        {
+          "rank": 10,
+          "occurences": 222,
+          "phrase": "gear wear tear inevitably happen"
+        }
+      ],
+      "6_gram": [
+        {
+          "rank": 1,
+          "occurences": 262,
+          "phrase": "damage external force natural wear tear"
+        },
+        {
+          "rank": 2,
+          "occurences": 235,
+          "phrase": "style number series letters digits around"
+        },
+        {
+          "rank": 3,
+          "occurences": 234,
+          "phrase": "number series letters digits around size"
+        },
+        {
+          "rank": 4,
+          "occurences": 224,
+          "phrase": "pockets style number series letters digits"
+        },
+        {
+          "rank": 5,
+          "occurences": 222,
+          "phrase": "love gear wear tear inevitably happen"
+        },
+        {
+          "rank": 6,
+          "occurences": 222,
+          "phrase": "gear wear tear inevitably happen time"
+        },
+        {
+          "rank": 7,
+          "occurences": 214,
+          "phrase": "timeproof love gear wear tear inevitably"
+        },
+        {
+          "rank": 8,
+          "occurences": 189,
+          "phrase": "used online instore never expire depreciate"
+        },
+        {
+          "rank": 9,
+          "occurences": 189,
+          "phrase": "online instore never expire depreciate value"
+        },
+        {
+          "rank": 10,
+          "occurences": 186,
+          "phrase": "cards used online instore never expire"
+        }
+      ],
+      "7_gram": [
+        {
+          "rank": 1,
+          "occurences": 234,
+          "phrase": "style number series letters digits around size"
+        },
+        {
+          "rank": 2,
+          "occurences": 224,
+          "phrase": "pockets style number series letters digits around"
+        },
+        {
+          "rank": 3,
+          "occurences": 222,
+          "phrase": "love gear wear tear inevitably happen time"
+        },
+        {
+          "rank": 4,
+          "occurences": 214,
+          "phrase": "timeproof love gear wear tear inevitably happen"
+        },
+        {
+          "rank": 5,
+          "occurences": 186,
+          "phrase": "cards used online instore never expire depreciate"
+        },
+        {
+          "rank": 6,
+          "occurences": 186,
+          "phrase": "used online instore never expire depreciate value"
+        },
+        {
+          "rank": 7,
+          "occurences": 184,
+          "phrase": "gift cards used online instore never expire"
+        },
+        {
+          "rank": 8,
+          "occurences": 182,
+          "phrase": "quality guarantee covers manufacturing defects doesn't cover"
+        },
+        {
+          "rank": 9,
+          "occurences": 180,
+          "phrase": "promise covers manufacturing defects doesn't cover damage"
+        },
+        {
+          "rank": 10,
+          "occurences": 179,
+          "phrase": "cover damage external force natural wear tear"
+        }
+      ],
+      "8_gram": [
+        {
+          "rank": 1,
+          "occurences": 223,
+          "phrase": "pockets style number series letters digits around size"
+        },
+        {
+          "rank": 2,
+          "occurences": 214,
+          "phrase": "timeproof love gear wear tear inevitably happen time"
+        },
+        {
+          "rank": 3,
+          "occurences": 185,
+          "phrase": "cards used online instore never expire depreciate value"
+        },
+        {
+          "rank": 4,
+          "occurences": 184,
+          "phrase": "gift cards used online instore never expire depreciate"
+        },
+        {
+          "rank": 5,
+          "occurences": 180,
+          "phrase": "quality guarantee covers manufacturing defects doesn't cover damage"
+        },
+        {
+          "rank": 6,
+          "occurences": 176,
+          "phrase": "damage external force natural wear tear fit preference"
+        },
+        {
+          "rank": 7,
+          "occurences": 175,
+          "phrase": "cover damage external force natural wear tear fit"
+        },
+        {
+          "rank": 8,
+          "occurences": 174,
+          "phrase": "doesn't cover damage external force natural wear tear"
+        },
+        {
+          "rank": 9,
+          "occurences": 172,
+          "phrase": "covers manufacturing defects doesn't cover damage external force"
+        },
+        {
+          "rank": 10,
+          "occurences": 170,
+          "phrase": "promise covers manufacturing defects doesn't cover damage external"
+        }
+      ]
+    },
+    "negative_phrases": {
+      "1_gram": [
+        {
+          "rank": 1,
+          "occurences": 6454,
+          "phrase": "return"
+        },
+        {
+          "rank": 2,
+          "occurences": 4563,
+          "phrase": "doesn't"
+        },
+        {
+          "rank": 3,
+          "occurences": 3801,
+          "phrase": "would"
+        },
+        {
+          "rank": 4,
+          "occurences": 3680,
+          "phrase": "store"
+        },
+        {
+          "rank": 5,
+          "occurences": 3188,
+          "phrase": "help"
+        },
+        {
+          "rank": 6,
+          "occurences": 2921,
+          "phrase": "item"
+        },
+        {
+          "rank": 7,
+          "occurences": 2814,
+          "phrase": "thank"
+        },
+        {
+          "rank": 8,
+          "occurences": 2801,
+          "phrase": "sorry"
+        },
+        {
+          "rank": 9,
+          "occurences": 2575,
+          "phrase": "like"
+        },
+        {
+          "rank": 10,
+          "occurences": 2553,
+          "phrase": "please"
+        }
+      ],
+      "2_gram": [
+        {
+          "rank": 1,
+          "occurences": 1531,
+          "phrase": "sorry hear"
+        },
+        {
+          "rank": 2,
+          "occurences": 1329,
+          "phrase": "quality guarantee"
+        },
+        {
+          "rank": 3,
+          "occurences": 1283,
+          "phrase": "gift card"
+        },
+        {
+          "rank": 4,
+          "occurences": 1204,
+          "phrase": "help today"
+        },
+        {
+          "rank": 5,
+          "occurences": 1168,
+          "phrase": "message removed"
+        },
+        {
+          "rank": 6,
+          "occurences": 898,
+          "phrase": "wear tear"
+        },
+        {
+          "rank": 7,
+          "occurences": 892,
+          "phrase": "anything else"
+        },
+        {
+          "rank": 8,
+          "occurences": 830,
+          "phrase": "style number"
+        },
+        {
+          "rank": 9,
+          "occurences": 828,
+          "phrase": "set return"
+        },
+        {
+          "rank": 10,
+          "occurences": 822,
+          "phrase": "business days"
+        }
+      ],
+      "3_gram": [
+        {
+          "rank": 1,
+          "occurences": 711,
+          "phrase": "oh sorry hear"
+        },
+        {
+          "rank": 2,
+          "occurences": 493,
+          "phrase": "anything else help"
+        },
+        {
+          "rank": 3,
+          "occurences": 455,
+          "phrase": "returns subject review"
+        },
+        {
+          "rank": 4,
+          "occurences": 413,
+          "phrase": "else help today"
+        },
+        {
+          "rank": 5,
+          "occurences": 393,
+          "phrase": "fall quality guarantee"
+        },
+        {
+          "rank": 6,
+          "occurences": 376,
+          "phrase": "doesn't eligible return"
+        },
+        {
+          "rank": 7,
+          "occurences": 373,
+          "phrase": "address phone number"
+        },
+        {
+          "rank": 8,
+          "occurences": 364,
+          "phrase": "quality guarantee covers"
+        },
+        {
+          "rank": 9,
+          "occurences": 357,
+          "phrase": "covers manufacturing defects"
+        },
+        {
+          "rank": 10,
+          "occurences": 347,
+          "phrase": "natural wear tear"
+        }
+      ],
+      "4_gram": [
+        {
+          "rank": 1,
+          "occurences": 410,
+          "phrase": "anything else help today"
+        },
+        {
+          "rank": 2,
+          "occurences": 341,
+          "phrase": "quality guarantee covers manufacturing"
+        },
+        {
+          "rank": 3,
+          "occurences": 340,
+          "phrase": "promise covers manufacturing defects"
+        },
+        {
+          "rank": 4,
+          "occurences": 273,
+          "phrase": "doesn't fall quality guarantee"
+        },
+        {
+          "rank": 5,
+          "occurences": 269,
+          "phrase": "external force natural wear"
+        },
+        {
+          "rank": 6,
+          "occurences": 264,
+          "phrase": "shipping address phone number"
+        },
+        {
+          "rank": 7,
+          "occurences": 264,
+          "phrase": "damage external force natural"
+        },
+        {
+          "rank": 8,
+          "occurences": 264,
+          "phrase": "force natural wear tear"
+        },
+        {
+          "rank": 9,
+          "occurences": 238,
+          "phrase": "style number series letters"
+        },
+        {
+          "rank": 10,
+          "occurences": 238,
+          "phrase": "letters digits around size"
+        }
+      ],
+      "5_gram": [
+        {
+          "rank": 1,
+          "occurences": 337,
+          "phrase": "quality guarantee covers manufacturing defects"
+        },
+        {
+          "rank": 2,
+          "occurences": 264,
+          "phrase": "damage external force natural wear"
+        },
+        {
+          "rank": 3,
+          "occurences": 264,
+          "phrase": "external force natural wear tear"
+        },
+        {
+          "rank": 4,
+          "occurences": 235,
+          "phrase": "style number series letters digits"
+        },
+        {
+          "rank": 5,
+          "occurences": 235,
+          "phrase": "number series letters digits around"
+        },
+        {
+          "rank": 6,
+          "occurences": 235,
+          "phrase": "series letters digits around size"
+        },
+        {
+          "rank": 7,
+          "occurences": 229,
+          "phrase": "wear tear inevitably happen time"
+        },
+        {
+          "rank": 8,
+          "occurences": 226,
+          "phrase": "pockets style number series letters"
+        },
+        {
+          "rank": 9,
+          "occurences": 222,
+          "phrase": "love gear wear tear inevitably"
+        },
+        {
+          "rank": 10,
+          "occurences": 222,
+          "phrase": "gear wear tear inevitably happen"
+        }
+      ],
+      "6_gram": [
+        {
+          "rank": 1,
+          "occurences": 262,
+          "phrase": "damage external force natural wear tear"
+        },
+        {
+          "rank": 2,
+          "occurences": 235,
+          "phrase": "style number series letters digits around"
+        },
+        {
+          "rank": 3,
+          "occurences": 234,
+          "phrase": "number series letters digits around size"
+        },
+        {
+          "rank": 4,
+          "occurences": 224,
+          "phrase": "pockets style number series letters digits"
+        },
+        {
+          "rank": 5,
+          "occurences": 222,
+          "phrase": "love gear wear tear inevitably happen"
+        },
+        {
+          "rank": 6,
+          "occurences": 222,
+          "phrase": "gear wear tear inevitably happen time"
+        },
+        {
+          "rank": 7,
+          "occurences": 214,
+          "phrase": "timeproof love gear wear tear inevitably"
+        },
+        {
+          "rank": 8,
+          "occurences": 189,
+          "phrase": "used online instore never expire depreciate"
+        },
+        {
+          "rank": 9,
+          "occurences": 189,
+          "phrase": "online instore never expire depreciate value"
+        },
+        {
+          "rank": 10,
+          "occurences": 186,
+          "phrase": "cards used online instore never expire"
+        }
+      ],
+      "7_gram": [
+        {
+          "rank": 1,
+          "occurences": 234,
+          "phrase": "style number series letters digits around size"
+        },
+        {
+          "rank": 2,
+          "occurences": 224,
+          "phrase": "pockets style number series letters digits around"
+        },
+        {
+          "rank": 3,
+          "occurences": 222,
+          "phrase": "love gear wear tear inevitably happen time"
+        },
+        {
+          "rank": 4,
+          "occurences": 214,
+          "phrase": "timeproof love gear wear tear inevitably happen"
+        },
+        {
+          "rank": 5,
+          "occurences": 186,
+          "phrase": "cards used online instore never expire depreciate"
+        },
+        {
+          "rank": 6,
+          "occurences": 186,
+          "phrase": "used online instore never expire depreciate value"
+        },
+        {
+          "rank": 7,
+          "occurences": 184,
+          "phrase": "gift cards used online instore never expire"
+        },
+        {
+          "rank": 8,
+          "occurences": 182,
+          "phrase": "quality guarantee covers manufacturing defects doesn't cover"
+        },
+        {
+          "rank": 9,
+          "occurences": 180,
+          "phrase": "promise covers manufacturing defects doesn't cover damage"
+        },
+        {
+          "rank": 10,
+          "occurences": 179,
+          "phrase": "cover damage external force natural wear tear"
+        }
+      ],
+      "8_gram": [
+        {
+          "rank": 1,
+          "occurences": 223,
+          "phrase": "pockets style number series letters digits around size"
+        },
+        {
+          "rank": 2,
+          "occurences": 214,
+          "phrase": "timeproof love gear wear tear inevitably happen time"
+        },
+        {
+          "rank": 3,
+          "occurences": 185,
+          "phrase": "cards used online instore never expire depreciate value"
+        },
+        {
+          "rank": 4,
+          "occurences": 184,
+          "phrase": "gift cards used online instore never expire depreciate"
+        },
+        {
+          "rank": 5,
+          "occurences": 180,
+          "phrase": "quality guarantee covers manufacturing defects doesn't cover damage"
+        },
+        {
+          "rank": 6,
+          "occurences": 176,
+          "phrase": "damage external force natural wear tear fit preference"
+        },
+        {
+          "rank": 7,
+          "occurences": 175,
+          "phrase": "cover damage external force natural wear tear fit"
+        },
+        {
+          "rank": 8,
+          "occurences": 174,
+          "phrase": "doesn't cover damage external force natural wear tear"
+        },
+        {
+          "rank": 9,
+          "occurences": 172,
+          "phrase": "covers manufacturing defects doesn't cover damage external force"
+        },
+        {
+          "rank": 10,
+          "occurences": 170,
+          "phrase": "promise covers manufacturing defects doesn't cover damage external"
+        }
+      ]
+    }
+  }

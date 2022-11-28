@@ -1,0 +1,371 @@
+{
+    "agent_name": "Sarah Lockwood",
+    "datetime": "July 15, 2021, 1:03pm",
+    "num_stars": 1,
+    "messages": [
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "thank you for reaching out to us at <company name>.",
+            "sentiment_highlight": [],
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "start": 36,
+                    "end": 49
+                } 
+            ]
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "hi <customer name>, how are you?",
+            "sentiment_highlight": [],
+            "entities": [
+                {
+                    "entity_group": "PER",
+                    "start": 3,
+                    "end": 17
+                } 
+            ]
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "i purchased a bunch of headbands from you for my sister and i but they are now so loose they slip right off our heads :(",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "light",
+                    "start": 82,
+                    "end": 117
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "oh no! that's such a bummer. i'm so sorry to hear that.",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "dark",
+                    "start": 14,
+                    "end": 27
+                },
+                {
+                    "sentiment_group": "med",
+                    "start": 29,
+                    "end": 54
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "we haven't even had them for long!",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "maybe a month give or take a week",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "green",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "here at <company name>, we stand behind our product and so if our product doesn't perform for you, we'll take it back. i'd love to offer you a return onto a gift card for you.",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "light",
+                    "start": 66,
+                    "end": 92
+                }
+            ],
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "start": 8,
+                    "end": 21
+                } 
+            ]
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "we spend $80 total on headbands but they all seem to be stretching out",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "green",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "we love the colors that we got them in so we don't want to return them",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "light",
+                    "start": 59,
+                    "end": 70
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "they aren't available anywhere anymore!",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "dark",
+                    "start": 5,
+                    "end": 21
+                },
+                {
+                    "sentiment_group": "light",
+                    "start": 22,
+                    "end": 38
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "we we just disapointed that they began to stretch out so quick and we haven't even had long enough time with them",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "is this normal?",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "oh dear. that's definitely not good. it's definitely not normal. i have a few and i haven't had any issues with mine. i'm so sorry to hear about this experience.",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "med",
+                    "start": 9,
+                    "end": 35
+                },
+                {
+                    "sentiment_group": "light",
+                    "start": 37,
+                    "end": 63
+                },
+                {
+                    "sentiment_group": "med",
+                    "start": 118,
+                    "end": 160
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "yea we have 6 and this has all happened..",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "you guys don't have this in the black,grey or navy anymore either",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "that's definitely so disappointing. i'm so sorry. as of right now, i can only offer you the return onto the gift card.",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "light",
+                    "start": 0,
+                    "end": 17
+                },
+                {
+                    "sentiment_group": "med",
+                    "start": 18,
+                    "end": 34
+                },
+                {
+                    "sentiment_group": "dark",
+                    "start": 36,
+                    "end": 48
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "do you also have the <product 74829>?",
+            "sentiment_highlight": [],
+            "entities": [
+                {
+                    "entity_group": "PROD",
+                    "start": 21,
+                    "end": 35
+                }
+            ]
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "would we get the full $80 back?",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "yes, you would receive the amount for all of the 6 headbands.",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "these colors aren't sold anymore so i was just wondering if that can even happen",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "light",
+                    "start": 6,
+                    "end": 32
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "if they are all the <product 74829>, it would be $72+tax",
+            "sentiment_highlight": [],
+            "entities": [
+                {
+                    "entity_group": "PROD",
+                    "start": 20,
+                    "end": 34
+                }
+            ]
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "yes",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "i'm not sure we want to just because we cannot get these colors again",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "light",
+                    "start": 40,
+                    "end": 69
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "green",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "thank you for trying to help",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "we just wanted to let you know this is a issue we had",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "light",
+                    "start": 41,
+                    "end": 53
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "i'm so sorry that this is happening. if you would ever like to return them, this is always an available option.",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "med",
+                    "start": 0,
+                    "end": 35
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "i will for sure leave feedback for our design team.",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "green",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "thank you!",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "<customer name> disconnected ('concluded by end-user')",
+            "sentiment_highlight": [],
+            "entities": [
+                {
+                    "entity_group": "PER",
+                    "start": 0,
+                    "end": 14
+                }
+            ]
+        }
+    ]
+}

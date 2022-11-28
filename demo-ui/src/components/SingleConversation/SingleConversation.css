@@ -1,0 +1,220 @@
+.single-conversation-msg {
+  padding-left: 15px;
+  box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.10), 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px
+}
+
+.single-conversation-msg-container {
+  max-height: 70vh; 
+  overflow-y: scroll; 
+  overflow-x: hidden; 
+  padding: 10px;
+}
+
+.single-conversation-msg-border-green {
+  border: 2.5px solid var(--bs-green);
+}
+
+.single-conversation-msg-border-yellow {
+  border: 2.5px solid var(--bs-yellow);
+}
+
+.single-conversation-msg-border-red {
+  border: 2.5px solid var(--bs-red);
+}
+
+.single-conversation-entity-outline-LOC {
+  border-left: 2.5px solid var(--bs-pink);
+  border-top: 2.5px solid var(--bs-pink);
+  border-bottom: 2.5px solid var(--bs-pink);
+  border-radius: 10px;
+}
+
+.single-conversation-entity-tag-LOC {
+  background-color: var(--bs-pink);
+  padding: 2.5px;
+  border-radius: 10px;
+  color: var(--bs-white);
+}
+
+.single-conversation-entity-outline-ORG {
+  border-left: 2.5px solid var(--bs-orange);
+  border-top: 2.5px solid var(--bs-orange);
+  border-bottom: 2.5px solid var(--bs-orange);
+  border-radius: 10px;
+}
+
+.single-conversation-entity-tag-ORG {
+  background-color: var(--bs-orange);
+  border-radius: 10px;
+  padding: 2.5px;
+  color: var(--bs-white);
+}
+
+.single-conversation-entity-outline-PER {
+  border-left: 2.5px solid var(--bs-indigo);
+  border-top: 2.5px solid var(--bs-indigo);
+  border-bottom: 2.5px solid var(--bs-indigo);
+  border-radius: 10px;
+}
+
+.single-conversation-entity-tag-PER {
+  background-color: var(--bs-indigo);
+  padding: 2.5px;
+  border-radius: 10px;
+  color: var(--bs-white);
+}
+
+.single-conversation-entity-outline-MISC {
+  border-left: 2.5px solid var(--bs-gray);
+  border-top: 2.5px solid var(--bs-gray);
+  border-bottom: 2.5px solid var(--bs-gray);
+  border-radius: 10px;
+}
+
+.single-conversation-entity-tag-MISC {
+  background-color: var(--bs-gray);
+  padding: 2.5px;
+  border-radius: 10px;
+  color: var(--bs-white);
+}
+
+.single-conversation-entity-outline-PROD {
+  border-left: 2.5px solid var(--bs-teal);
+  border-top: 2.5px solid var(--bs-teal);
+  border-bottom: 2.5px solid var(--bs-teal);
+  border-radius: 10px;
+}
+
+.single-conversation-entity-tag-PROD {
+  background-color: var(--bs-teal);
+  padding: 2.5px;
+  border-radius: 10px;
+  color: var(--bs-white);
+}
+
+.single-conversation-intensity-light {
+  background: #99d6dd
+}
+
+.single-conversation-intensity-med {
+  background: #6bc9db
+}
+
+.single-conversation-intensity-dark {
+  background: #00b5d6
+}
+
+/* fade in and out for conversation block */
+.single-conversation-convo-hide {
+  opacity: 0;
+}
+.single-conversation-convo-fade-in {
+  animation: single-conversation-fade-in ease 1s;
+  -webkit-animation: single-conversation-fade-in ease 1s;
+  -moz-animation: single-conversation-fade-in ease 1s;
+  -o-animation: single-conversation-fade-in ease 1s;
+  -ms-animation: single-conversation-fade-in ease 1s;
+}
+
+/* need to do this to ensure support across all browsers */
+/* see tutorial for deets: https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08 */
+@keyframes single-conversation-fade-in {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-moz-keyframes single-conversation-fade-in {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-webkit-keyframes single-conversation-fade-in {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-o-keyframes single-conversation-fade-in {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-ms-keyframes single-conversation-fade-in {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+.single-conversation-convo-fade-out {
+  animation: single-conversation-fade-out ease 0.2s;
+  -webkit-animation: single-conversation-fade-out ease 0.2s;
+  -moz-animation: single-conversation-fade-out ease 0.2s;
+  -o-animation: single-conversation-fade-out ease 0.2s;
+  -ms-animation: single-conversation-fade-out ease 0.2s;
+}
+@keyframes single-conversation-fade-out {
+  0% {
+    opacity:1;
+  }
+  100% {
+    opacity:0;
+  }
+}
+
+@-moz-keyframes single-conversation-fade-out {
+  0% {
+    opacity:1;
+  }
+  100% {
+    opacity:0;
+  }
+}
+
+@-webkit-keyframes single-conversation-fade-out {
+  0% {
+    opacity:1;
+  }
+  100% {
+    opacity:0;
+  }
+}
+
+@-o-keyframes single-conversation-fade-out {
+  0% {
+    opacity:1;
+  }
+  100% {
+    opacity:0;
+  }
+}
+
+@-ms-keyframes single-conversation-fade-out {
+  0% {
+    opacity:1;
+  }
+  100% {
+    opacity:0;
+  }
+}

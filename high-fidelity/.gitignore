@@ -1,0 +1,19 @@
+
+# Editors
+.vscode/
+
+# Mac/OSX
+.DS_Store
+
+# Source for the following rules: https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+hedwig-data/
+hedwig/longformer-base-4096/
+*.pt
+
+/node_modules
+

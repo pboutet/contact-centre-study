@@ -1,0 +1,601 @@
+{
+    "agent_name": "Amanda Issacson",
+    "datetime": "July 15, 2021, 1:03pm",
+    "num_stars": 1,
+    "messages": [
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "thank you for reaching out to us at <company name>.",
+            "sentiment_highlight": [],
+            "entities": [
+                {
+                    "entity_group": "ORG",
+                    "start": 36,
+                    "end": 49
+                }
+            ]
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "green",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "hi <customer name>, how are you?",
+            "sentiment_highlight": [],
+            "entities": [
+                {
+                    "entity_group": "PER",
+                    "start": 3,
+                    "end": 17
+                }
+            ]
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "hi!",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "you are all very busy today!",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "yes, we sure are~",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "green",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "how can i help you today?",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "i have some things that are not performing for me the way they ar3 meant to any more",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "light",
+                    "start": 28,
+                    "end": 42
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "when i was waiting i try to find the ones that they look like on your website so maybe this will be faster for yiu?",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "i can definitely try!",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "i will just need the pictures.",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "i will also need details on how they are not performing for you.",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "medium",
+                    "start": 41,
+                    "end": 55
+                },
+                {
+                    "sentiment_group": "light",
+                    "start": 56,
+                    "end": 63
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "there are 2 bras",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "one is the <product 6382> - the strap always looser on one side when i wear it, that is size 8",
+            "sentiment_highlight": [],
+            "entities": [
+                {
+                    "entity_group": "PROD",
+                    "start": 11,
+                    "end": 24
+                }
+            ]
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "in a yellow/green colour",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "the other bra is a bright green one - the <product 20182> also in size 8",
+            "sentiment_highlight": [],
+            "entities": [
+                {
+                    "entity_group": "PROD",
+                    "start": 42,
+                    "end": 56
+                },
+                {
+                    "entity_group": "PROD",
+                    "start": 10,
+                    "end": 12
+                }
+            ]
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "green",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "thanks! and you purchased these bras online or in store?",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "that one is funny - it looks okay but when i wear it it always rub at the skin at the stitching on the side so it hurts. my other ones in the ssame size don't do it, so it's not because i am fatter hahaha",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "light",
+                    "start": 63,
+                    "end": 113
+                },
+                {
+                    "sentiment_group": "dark",
+                    "start": 114,
+                    "end": 119
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "i shop in the stores usually",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "i don't know whgat happen the the stitch it that bra, it does chaffing",
+            "sentiment_highlight": [],
+            "entities": [
+                {
+                    "entity_group": "PROD",
+                    "start": 49,
+                    "end": 51
+                }
+            ]
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "bizarre!!",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "light",
+                    "start": 0,
+                    "end": 7
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "green",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "okay, i can definitely go ahead and set up the two returns for you.",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "light",
+                    "start": 0,
+                    "end": 22
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "green",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "can you please confirm your mailing address for me please?",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "then there's two short tights",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "the waist band on one is okay when i first put it on but then as i weat it longer it starts to roll down",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "i will need the names of those as well.",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "that one feels like the usual <product 92841> but it's short",
+            "sentiment_highlight": [],
+            "entities": [
+                {
+                    "entity_group": "PROD",
+                    "start": 30,
+                    "end": 44
+                }
+            ]
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "i'm not sure if it's <product 62914>?",
+            "sentiment_highlight": [],
+            "entities": [
+                {
+                    "entity_group": "PROD",
+                    "start": 21,
+                    "end": 35
+                }
+            ]
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "the other shorts is a bit longer",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "maybe theprevious version of the <product 20143> that is on your website, it goes to about halfway to the thigh",
+            "sentiment_highlight": [],
+            "entities": [
+                {
+                    "entity_group": "PROD",
+                    "start": 33,
+                    "end": 47
+                }
+            ]
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "that one the sweing is coming off on one leg",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "green",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "okay, thank you.",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "i will need you to go ahead and write out the names, colours and sizes of each item in a list as there are so many.",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "last one is a tights that go the half way calf area",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "isn't that your job?",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "light",
+                    "start": 0,
+                    "end": 19
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "i don't know all the name",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "i just try to be helpful because the wait time is so long",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "dark",
+                    "start": 37,
+                    "end": 57
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "no, i need all the names so that i can process them.",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "so i go to your website to try to find similar",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "alternatively, you can take them into your local store.",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "light",
+                    "start": 0,
+                    "end": 13
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "green",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "or you can send me pictures if you wish.",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "i cannot identify them with the information you have provided me thus far.",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "light",
+                    "start": 0,
+                    "end": 22
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "so nbow you aere saying you don't understand anything i have said?",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "med",
+                    "start": 24,
+                    "end": 65
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "no, i definitely did not say that.",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "med",
+                    "start": 6,
+                    "end": 33
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "we have many different styles and many styles that previously were sold and no longer are being sold.",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "so i will need you to send me pictures or find the names.",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "so you cannot help if i don't give you exactly the name",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "med",
+                    "start": 7,
+                    "end": 18
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "i offered you to send me the pictures.",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "nbecause you dont know",
+            "sentiment_highlight": [],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "so helpful you are",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "med",
+                    "start": 0,
+                    "end": 18
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "your customer service not was good as the usually people that are good",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "light",
+                    "start": 0,
+                    "end": 21
+                },
+                {
+                    "sentiment_group": "med",
+                    "start": 22,
+                    "end": 34
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "so long wait to get to someone like you",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "med",
+                    "start": 0,
+                    "end": 12
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Customer",
+            "sentiment_border": "red",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "waste of time",
+            "sentiment_highlight": [
+                {
+                    "sentiment_group": "med",
+                    "start": 0,
+                    "end": 13
+                }
+            ],
+            "entities": []
+        },
+        {
+            "speaker": "Agent",
+            "sentiment_border": "yellow",
+            "datetime": "July 15, 2021, 1:03pm",
+            "text": "<customer name> disconnected ('concluded by end-user')",
+            "sentiment_highlight": [],
+            "entities": [
+                {
+                    "entity_group": "PER",
+                    "start": 0,
+                    "end": 14
+                }
+            ]
+        }
+    ]
+}

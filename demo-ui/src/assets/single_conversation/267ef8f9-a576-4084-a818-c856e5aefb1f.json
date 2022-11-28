@@ -1,0 +1,533 @@
+{
+  "agent_name": "Ben Offenback",
+  "datetime": "July 9, 2021, 1:28 pm",
+  "num_stars": 5,
+  "messages": [
+    {
+      "speaker": "agent",
+      "sentiment_border": "yellow",
+      "datetime": "1:28pm | July 8, 2021",
+      "text": "Hello, how are you today?",
+      "sentiment_highlight": [],
+      "entities": []
+    },
+    {
+      "speaker": "customer",
+      "sentiment_border": "green",
+      "datetime": "1:28pm | July 8, 2021",
+      "text": "Good, how about you?",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "light",
+          "start": 0,
+          "end": 3
+        }
+      ],
+      "entities": []
+    },
+    {
+      "speaker": "agent",
+      "sentiment_border": "green",
+      "datetime": "1:28pm | July 8, 2021",
+      "text": "I'm great, thank you. How can I help you out?",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "light",
+          "start": 4,
+          "end": 8
+        },
+        {
+          "sentiment_group": "med",
+          "start": 11,
+          "end": 19
+        },
+        {
+          "sentiment_group": "dark",
+          "start": 22,
+          "end": 43
+        }
+      ],
+      "entities": []
+    },
+    {
+      "speaker": "customer",
+      "sentiment_border": "red",
+      "datetime": "1:29pm | July 8, 2021",
+      "text": "So I didn't receive my package, although fedex said it had been delivered. I think the  package is lost.",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "dark",
+          "start": 5,
+          "end": 18
+        },
+        {
+          "sentiment_group": "med",
+          "start": 20,
+          "end": 29
+        },
+        {
+          "sentiment_group": "med",
+          "start": 88,
+          "end": 102
+        }
+      ],
+      "entities": [
+        {
+          "entity_group": "ORG",
+          "start": 41,
+          "end": 45
+        }
+      ]
+    },
+    {
+      "speaker": "customer",
+      "sentiment_border": "red",
+      "datetime": "1:29pm | July 8, 2021",
+      "text": "Fedex said it was left on the front door at 8:30am, but our building has very specific rule that all the package has to be going through the leasing office. They can't  drop the package at my door.",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "light",
+          "start": 169,
+          "end": 195
+        }
+      ],
+      "entities": [
+        {
+          "entity_group": "ORG",
+          "start": 0,
+          "end": 4
+        }
+      ]
+    },
+    {
+      "speaker": "customer",
+      "sentiment_border": "red",
+      "datetime": "1:30pm | July 8, 2021",
+      "text": "Are you with me?",
+      "sentiment_highlight": [],
+      "entities": []
+    },
+    {
+      "speaker": "agent",
+      "sentiment_border": "red",
+      "datetime": "1:30pm | July 8, 2021",
+      "text": "Oh dear, that's not good. I'm sorry to hear that.",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "light",
+          "start": 0,
+          "end": 6
+        },
+        {
+          "sentiment_group": "med",
+          "start": 9,
+          "end": 23
+        },
+        {
+          "sentiment_group": "dark",
+          "start": 26,
+          "end": 47
+        }
+      ],
+      "entities": []
+    },
+    {
+      "speaker": "customer",
+      "sentiment_border": "yellow",
+      "datetime": "1:30pm | July 8, 2021",
+      "text": "Yeap.",
+      "sentiment_highlight": [],
+      "entities": []
+    },
+    {
+      "speaker": "customer",
+      "sentiment_border": "yellow",
+      "datetime": "1:30pm | July 8, 2021",
+      "text": "Yes.",
+      "sentiment_highlight": [],
+      "entities": []
+    },
+    {
+      "speaker": "agent",
+      "sentiment_border": "yellow",
+      "datetime": "1:31pm | July 8, 2021",
+      "text": "Okay, so it's not in a mail area or anything like that?",
+      "sentiment_highlight": [],
+      "entities": []
+    },
+    {
+      "speaker": "customer",
+      "sentiment_border": "yellow",
+      "datetime": "1:32pm | July 8, 2021",
+      "text": "So I have no idea where the package it is",
+      "sentiment_highlight": [],
+      "entities": []
+    },
+    {
+      "speaker": "customer",
+      "sentiment_border": "yellow",
+      "datetime": "1:32pm | July 8, 2021",
+      "text": "Yes. I check the mail box, and the representative in the leasing office. They couldn't find it. Our building is also gate controlled.",
+      "sentiment_highlight": [],
+      "entities": []
+    },
+    {
+      "speaker": "agent",
+      "sentiment_border": "green",
+      "datetime": "1:32pm | July 8, 2021",
+      "text": "Okay, thank you for confirming.",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "light",
+          "start": 6,
+          "end": 29
+        }
+      ],
+      "entities": []
+    },
+    {
+      "speaker": "customer",
+      "sentiment_border": "yellow",
+      "datetime": "1:33pm | July 8, 2021",
+      "text": "Also, the leasing office is not open until 9am, in that case they couldn't enter the building.",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "light",
+          "start": 66,
+          "end": 79
+        }
+      ],
+      "entities": []
+    },
+    {
+      "speaker": "agent",
+      "sentiment_border": "green",
+      "datetime": "1:34pm | July 8, 2021",
+      "text": "In a case like this, we'll need to reach out to fedex to follow up. The process will take 4 days to complete, and once we’ve heard back from them we will contact you via email. If the package is found, we will have it redirected to you as quickly as possible. If the package is not found, we will reach out to you with the best possible resolution.",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "light",
+          "start": 72,
+          "end": 95
+        },
+        {
+          "sentiment_group": "dark",
+          "start": 218,
+          "end": 257
+        },
+        {
+          "sentiment_group": "med",
+          "start": 289,
+          "end": 346
+        }
+      ],
+      "entities": [
+        {
+          "entity_group": "ORG",
+          "start": 48,
+          "end": 52
+        }
+      ]
+    },
+    {
+      "speaker": "customer",
+      "sentiment_border": "green",
+      "datetime": "1:34pm | July 8, 2021",
+      "text": "Right, I understand. I already reach out to them, they give me a case id.",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "med",
+          "start": 0,
+          "end": 18
+        }
+      ],
+      "entities": []
+    },
+    {
+      "speaker": "agent",
+      "sentiment_border": "yellow",
+      "datetime": "1:35pm | July 8, 2021",
+      "text": "Okay, we will submit a trace follow up on our end as well.  Then we will follow up in 4 days with you.",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "med",
+          "start": 29,
+          "end": 56
+        }
+      ],
+      "entities": []
+    },
+    {
+      "speaker": "customer",
+      "sentiment_border": "red",
+      "datetime": "1:35pm | July 8, 2021",
+      "text": "Okay, I felt really frustrated, cuz I just moved in this new apartment. I order other <company name> stuff before, it was never lost. Things like this never happen to me. I really hate to deal with it.",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "dark",
+          "start": 6,
+          "end": 29
+        },
+        {
+          "sentiment_group": "med",
+          "start": 171,
+          "end": 199
+        }
+      ],
+      "entities": [
+        {
+          "entity_group": "ORG",
+          "start": 86,
+          "end": 99
+        }
+      ]
+    },
+    {
+      "speaker": "agent",
+      "sentiment_border": "yellow",
+      "datetime": "1:35pm | July 8, 2021",
+      "text": "For sure, I can completely understand how frustrating this is. I will definitely ensure this feedback is heard. Once we have more information we can resolve everything for you.",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "med",
+          "start": 10,
+          "end": 60
+        },
+        {
+          "sentiment_group": "light",
+          "start": 70,
+          "end": 109
+        },
+        {
+          "sentiment_group": "med",
+          "start": 112,
+          "end": 140
+        },
+        {
+          "sentiment_group": "dark",
+          "start": 142,
+          "end": 174
+        }
+      ],
+      "entities": []
+    },
+    {
+      "speaker": "customer",
+      "sentiment_border": "yellow",
+      "datetime": "1:36pm | July 8, 2021",
+      "text": "Ok. How would you like to follow up with me? and how would I tell fedex to be in touch with you guys?",
+      "sentiment_highlight": [],
+      "entities": [
+        {
+          "entity_group": "ORG",
+          "start": 66,
+          "end": 70
+        }
+      ]
+    },
+    {
+      "speaker": "customer",
+      "sentiment_border": "green",
+      "datetime": "1:36pm | July 8, 2021",
+      "text": "Thanks for understanding the situation, I appreciate it.",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "med",
+          "start": 0,
+          "end": 23
+        },
+        {
+          "sentiment_group": "dark",
+          "start": 40,
+          "end": 54
+        }
+      ],
+      "entities": []
+    },
+    {
+      "speaker": "agent",
+      "sentiment_border": "green",
+      "datetime": "1:37pm | July 8, 2021",
+      "text": "You're so welcome! We'll contact fedex and follow up with you over email within 4 days.",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "med",
+          "start": 0,
+          "end": 16
+        }
+      ],
+      "entities": [
+        {
+          "entity_group": "ORG",
+          "start": 33,
+          "end": 37
+        }
+      ]
+    },
+    {
+      "speaker": "agent",
+      "sentiment_border": "green",
+      "datetime": "1:37pm | July 8, 2021",
+      "text": "Glad I could help :)",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "dark",
+          "start": 0,
+          "end": 16
+        }
+      ],
+      "entities": []
+    },
+    {
+      "speaker": "customer",
+      "sentiment_border": "green",
+      "datetime": "1:37pm | July 8, 2021",
+      "text": "Ok thanks! Do I need to call fedex again regarding this?",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "light",
+          "start": 0,
+          "end": 8
+        }
+      ],
+      "entities": [
+        {
+          "entity_group": "ORG",
+          "start": 29,
+          "end": 33
+        }
+      ]
+    },
+    {
+      "speaker": "agent",
+      "sentiment_border": "green",
+      "datetime": "1:36pm | July 8, 2021",
+      "text": "No, it's all taken care of. We'll contact you once they get back to us.",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "med",
+          "start": 9,
+          "end": 25
+        }
+      ],
+      "entities": []
+    },
+    {
+      "speaker": "customer",
+      "sentiment_border": "green",
+      "datetime": "1:38pm | July 8, 2021",
+      "text": "Thanks! please let them know all the package has to be delivered at the leasing office, it couldn't be delivered at the front door. and a signature is requested",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "light",
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "entities": []
+    },
+    {
+      "speaker": "agent",
+      "sentiment_border": "green",
+      "datetime": "1:38pm | July 8, 2021",
+      "text": "Okay, it's been noted. Thanks for reaching out today, is there anything else I can do for you?",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "med",
+          "start": 77,
+          "end": 92
+        }
+      ],
+      "entities": []
+    },
+    {
+      "speaker": "customer",
+      "sentiment_border": "green",
+      "datetime": "1:38pm | July 8, 2021",
+      "text": "No, thanks. I'm looking forward to hearing from you soon.",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "med",
+          "start": 12,
+          "end": 30
+        }
+      ],
+      "entities": []
+    },
+    {
+      "speaker": "customer",
+      "sentiment_border": "yellow",
+      "datetime": "1:38pm | July 8, 2021",
+      "text": "Is there any reference for this issue?",
+      "sentiment_highlight": [],
+      "entities": []
+    },
+    {
+      "speaker": "agent",
+      "sentiment_border": "green",
+      "datetime": "1:36pm | July 8, 2021",
+      "text": "You're welcome, have a nice day, <Cat>! The incident number is 123456-123456.",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "dark",
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "entities": [
+        {
+          "entity_group": "PER",
+          "start": 33,
+          "end": 37
+        }
+      ]
+    },
+    {
+      "speaker": "customer",
+      "sentiment_border": "green",
+      "datetime": "1:40pm | July 8, 2021",
+      "text": "Thanks, have a good day",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "med",
+          "start": 0,
+          "end": 5
+        },
+        {
+          "sentiment_group": "med",
+          "start": 8,
+          "end": 22
+        }
+      ],
+      "entities": []
+    },
+    {
+      "speaker": "agent",
+      "sentiment_border": "green",
+      "datetime": "1:40pm | July 8, 2021",
+      "text": "You're welcome! You too!",
+      "sentiment_highlight": [
+        {
+          "sentiment_group": "dark",
+          "start": 0,
+          "end": 13
+        }
+      ],
+      "entities": []
+    },
+    {
+      "speaker": "agent",
+      "sentiment_border": "yellow",
+      "datetime": "1:41pm | July 8, 2021",
+      "text": "Ben Offenback disconnected (concluded by end-user).",
+      "sentiment_highlight": [],
+      "entities": [
+        {
+          "entity_group": "PER",
+          "start": 0,
+          "end": 12
+        }
+      ]
+    }
+  ]
+}

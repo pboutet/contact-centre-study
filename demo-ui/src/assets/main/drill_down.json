@@ -1,0 +1,44 @@
+[
+    {
+        "agent_name": "Sofia Hyland",
+        "datetime": "July 14, 2021, 1:32pm",
+        "num_stars": 1,
+        "conversation_snippet": "you're not being very helpful to me, what else can you do to",
+        "id": "529afe7d-d0ac-4b20-ba3d-39ddaef165cd"
+    },
+    {
+        "agent_name": "Ford Tirrell",
+        "datetime": "July 14, 2021, 1:28pm ",
+        "num_stars": 1,
+        "conversation_snippet": "I don't see how you're going to fix this, can I just have my money back",
+        "id": "a34531ca-ee71-4030-8278-f2555ac38808"
+    },
+    {
+        "agent_name": "Aaron Lorenz",
+        "datetime": "July 14, 2021, 11:37pm",
+        "num_stars": 1,
+        "conversation_snippet": "Can you just go get a supervisor? None of your suggestions are helpful",
+        "id": "267ef8f9-a576-4084-a818-c856e5aefb1f"
+    },
+    {
+        "agent_name": "Taylor Myrna",
+        "datetime": "July 9, 2021, 9:19pm",
+        "num_stars": 1,
+        "conversation_snippet": "This is such a waste of my time, why bother having customer service if",
+        "id": "267ef8f9-a576-4084-a818-c856e5aefb1f"
+    },
+    {
+        "agent_name": "Alyssa Bernard",
+        "datetime": "July 8, 2021, 9:51am",
+        "num_stars": 1,
+        "conversation_snippet": "So you're just not going to fix my problem and now you've wasted",
+        "id": "267ef8f9-a576-4084-a818-c856e5aefb1f"
+    },
+    {
+        "agent_name": "Jan Forney",
+        "datetime": "July 4, 2021, 7:21am",
+        "num_stars": 1,
+        "conversation_snippet": "A gift card doesn't fix my problem I just want you to give me a new one",
+        "id": "267ef8f9-a576-4084-a818-c856e5aefb1f"
+    }
+]

@@ -1,0 +1,778 @@
+[
+    {
+        "topicNumber": 1,
+        "topicName": "returns to store",
+        "interactions": 1000,
+        "basicStats": {
+            "wordCount": {
+                "avg": 467,
+                "min": 203,
+                "max": 798
+            },
+            "complexityPercent": {
+                "agent": 56,
+                "customer": 37,
+                "avg": 45
+            }
+        },
+        "commonTerms": [
+            "store",
+            "pair",
+            "pants",
+            "good",
+            "clothes",
+            "hear",
+            "great",
+            "i'm",
+            "today",
+            "i’m",
+            "online",
+            "hole",
+            "purchased",
+            "ago",
+            "love",
+            "return",
+            "bought",
+            "back",
+            "company name",
+            "it’s",
+            "item",
+            "day",
+            "don’t",
+            "purchase",
+            "seam",
+            "long",
+            "pairs",
+            "quality",
+            "wondering",
+            "wear"
+        ],
+        "phrases": [
+            {
+                "text": "pockets style number series letters digits around size",
+                "occurences": 223,
+                "intensity": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "type": "dark"
+                    },
+                    {
+                        "start": 14,
+                        "end": 19,
+                        "type": "dark"
+                    },
+                    {
+                        "start": 21,
+                        "end": 26,
+                        "type": "light"
+                    },
+                    {
+                        "start": 28,
+                        "end": 34,
+                        "type": "med"
+                    },
+                    {
+                        "start": 36,
+                        "end": 41,
+                        "type": "light"
+                    }
+                ]
+            },
+            {
+                "text": "wear tear inevitably happen time",
+                "occurences": 229,
+                "intensity": []
+            },
+            {
+                "text": "external force natural wear tear",
+                "occurences": 264,
+                "intensity": []
+            },
+            {
+                "text": "quality promise covers manufacturing",
+                "occurences": 341,
+                "intensity": []
+            }
+        ]
+    },
+    {
+        "topicNumber": 2,
+        "topicName": "return policy criteria and details",
+        "interactions": 800,
+        "basicStats": {
+            "wordCount": {
+                "avg": 467,
+                "min": 203,
+                "max": 798
+            },
+            "complexityPercent": {
+                "agent": 56,
+                "customer": 37,
+                "avg": 45
+            }
+        },
+        "commonTerms": [
+            "return",
+            "store",
+            "back",
+            "i'm",
+            "returns",
+            "item",
+            "offer",
+            "understand",
+            "time",
+            "issue",
+            "exchange",
+            "company name",
+            "quality",
+            "team",
+            "send",
+            "make",
+            "policy",
+            "don't",
+            "purchase",
+            "today",
+            "tags",
+            "speak",
+            "product",
+            "work",
+            "receipt",
+            "customer",
+            "feel",
+            "warehouse",
+            "items",
+            "review"
+        ],
+        "phrases": [
+            {
+                "text": "pockets style number series letters digits around size",
+                "occurences": 223,
+                "intensity": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "type": "dark"
+                    },
+                    {
+                        "start": 14,
+                        "end": 19,
+                        "type": "dark"
+                    },
+                    {
+                        "start": 21,
+                        "end": 26,
+                        "type": "light"
+                    },
+                    {
+                        "start": 28,
+                        "end": 34,
+                        "type": "med"
+                    },
+                    {
+                        "start": 36,
+                        "end": 41,
+                        "type": "light"
+                    }
+                ]
+            },
+            {
+                "text": "wear tear inevitably happen time",
+                "occurences": 229,
+                "intensity": []
+            },
+            {
+                "text": "external force natural wear tear",
+                "occurences": 264,
+                "intensity": []
+            },
+            {
+                "text": "quality promise covers manufacturing",
+                "occurences": 341,
+                "intensity": []
+            }
+        ]
+    },
+    {
+        "topicNumber": 3,
+        "topicName": "details in issuing a gift card",
+        "interactions": 600,
+        "basicStats": {
+            "wordCount": {
+                "avg": 467,
+                "min": 203,
+                "max": 798
+            },
+            "complexityPercent": {
+                "agent": 56,
+                "customer": 37,
+                "avg": 45
+            }
+        },
+        "commonTerms": [
+            "return",
+            "card",
+            "gift",
+            "email",
+            "shipping",
+            "set",
+            "label",
+            "warehouse",
+            "receive",
+            "order",
+            "days",
+            "online",
+            "business",
+            "form",
+            "address",
+            "great",
+            "process",
+            "size",
+            "hours",
+            "authorization",
+            "removed",
+            "message",
+            "item",
+            "number",
+            "in-store",
+            "send",
+            "wait",
+            "package",
+            "cards",
+            "egift"
+        ],
+        "phrases": [
+            {
+                "text": "pockets style number series letters digits around size",
+                "occurences": 223,
+                "intensity": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "type": "dark"
+                    },
+                    {
+                        "start": 14,
+                        "end": 19,
+                        "type": "dark"
+                    },
+                    {
+                        "start": 21,
+                        "end": 26,
+                        "type": "light"
+                    },
+                    {
+                        "start": 28,
+                        "end": 34,
+                        "type": "med"
+                    },
+                    {
+                        "start": 36,
+                        "end": 41,
+                        "type": "light"
+                    }
+                ]
+            },
+            {
+                "text": "wear tear inevitably happen time",
+                "occurences": 229,
+                "intensity": []
+            },
+            {
+                "text": "external force natural wear tear",
+                "occurences": 264,
+                "intensity": []
+            },
+            {
+                "text": "quality promise covers manufacturing",
+                "occurences": 341,
+                "intensity": []
+            }
+        ]
+    },
+    {
+        "topicNumber": 4,
+        "topicName": "quality promise guarantee details",
+        "interactions": 400,
+        "basicStats": {
+            "wordCount": {
+                "avg": 467,
+                "min": 203,
+                "max": 798
+            },
+            "complexityPercent": {
+                "agent": 56,
+                "customer": 37,
+                "avg": 45
+            }
+        },
+        "commonTerms": [
+            "quality",
+            "promise",
+            "wear",
+            "tear",
+            "gear",
+            "return",
+            "manufacturing",
+            "external",
+            "time",
+            "defects",
+            "damage",
+            "items",
+            "force",
+            "eligible",
+            "covers",
+            "years",
+            "fall",
+            "products",
+            "happen",
+            "doesn't",
+            "natural",
+            "cover",
+            "fit",
+            "isn't",
+            "pride",
+            "don't",
+            "aren't",
+            "creating",
+            "item",
+            "feedback"
+        ],
+        "phrases": [
+            {
+                "text": "pockets style number series letters digits around size",
+                "occurences": 223,
+                "intensity": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "type": "dark"
+                    },
+                    {
+                        "start": 14,
+                        "end": 19,
+                        "type": "dark"
+                    },
+                    {
+                        "start": 21,
+                        "end": 26,
+                        "type": "light"
+                    },
+                    {
+                        "start": 28,
+                        "end": 34,
+                        "type": "med"
+                    },
+                    {
+                        "start": 36,
+                        "end": 41,
+                        "type": "light"
+                    }
+                ]
+            },
+            {
+                "text": "wear tear inevitably happen time",
+                "occurences": 229,
+                "intensity": []
+            },
+            {
+                "text": "external force natural wear tear",
+                "occurences": 264,
+                "intensity": []
+            },
+            {
+                "text": "quality promise covers manufacturing",
+                "occurences": 341,
+                "intensity": []
+            }
+        ]
+    },
+    {
+        "topicNumber": 5,
+        "topicName": "finding product style info",
+        "interactions": 300,
+        "basicStats": {
+            "wordCount": {
+                "avg": 467,
+                "min": 203,
+                "max": 798
+            },
+            "complexityPercent": {
+                "agent": 56,
+                "customer": 37,
+                "avg": 45
+            }
+        },
+        "commonTerms": [
+            "size",
+            "number",
+            "style",
+            "return",
+            "item",
+            "email",
+            "address",
+            "removed",
+            "pockets",
+            "message",
+            "colour",
+            "online",
+            "review",
+            "dot",
+            "information",
+            "returns",
+            "phone",
+            "chat",
+            "subject",
+            "black",
+            "initiate",
+            "full",
+            "great",
+            "shipping",
+            "in-store",
+            "share",
+            "mind",
+            "hidden",
+            "work",
+            "letters"
+        ],
+        "phrases": [
+            {
+                "text": "pockets style number series letters digits around size",
+                "occurences": 223,
+                "intensity": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "type": "dark"
+                    },
+                    {
+                        "start": 14,
+                        "end": 19,
+                        "type": "dark"
+                    },
+                    {
+                        "start": 21,
+                        "end": 26,
+                        "type": "light"
+                    },
+                    {
+                        "start": 28,
+                        "end": 34,
+                        "type": "med"
+                    },
+                    {
+                        "start": 36,
+                        "end": 41,
+                        "type": "light"
+                    }
+                ]
+            },
+            {
+                "text": "wear tear inevitably happen time",
+                "occurences": 229,
+                "intensity": []
+            },
+            {
+                "text": "external force natural wear tear",
+                "occurences": 264,
+                "intensity": []
+            },
+            {
+                "text": "quality promise covers manufacturing",
+                "occurences": 341,
+                "intensity": []
+            }
+        ]
+    },
+    {
+        "topicNumber": 6,
+        "topicName": "pants pilling and intended use",
+        "interactions": 200,
+        "basicStats": {
+            "wordCount": {
+                "avg": 467,
+                "min": 203,
+                "max": 798
+            },
+            "complexityPercent": {
+                "agent": 56,
+                "customer": 37,
+                "avg": 45
+            }
+        },
+        "commonTerms": [
+            "product",
+            "pilling",
+            "pant",
+            "pants",
+            "sport",
+            "activities",
+            "wear",
+            "gear",
+            "fabric",
+            "wash",
+            "intended",
+            "clothes",
+            "robust",
+            "recommend",
+            "everyday",
+            "it's",
+            "made",
+            "aren't",
+            "pants",
+            "quality",
+            "tight",
+            "hear",
+            "designed",
+            "good",
+            "gym",
+            "items",
+            "washing",
+            "i'm",
+            "pairs",
+            "pair"
+        ],
+        "phrases": [
+            {
+                "text": "pockets style number series letters digits around size",
+                "occurences": 223,
+                "intensity": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "type": "dark"
+                    },
+                    {
+                        "start": 14,
+                        "end": 19,
+                        "type": "dark"
+                    },
+                    {
+                        "start": 21,
+                        "end": 26,
+                        "type": "light"
+                    },
+                    {
+                        "start": 28,
+                        "end": 34,
+                        "type": "med"
+                    },
+                    {
+                        "start": 36,
+                        "end": 41,
+                        "type": "light"
+                    }
+                ]
+            },
+            {
+                "text": "wear tear inevitably happen time",
+                "occurences": 229,
+                "intensity": []
+            },
+            {
+                "text": "external force natural wear tear",
+                "occurences": 264,
+                "intensity": []
+            },
+            {
+                "text": "quality promise covers manufacturing",
+                "occurences": 341,
+                "intensity": []
+            }
+        ]
+    },
+    {
+        "topicNumber": 7,
+        "topicName": "broken zippers need reparing",
+        "interactions": 100,
+        "basicStats": {
+            "wordCount": {
+                "avg": 467,
+                "min": 203,
+                "max": 798
+            },
+            "complexityPercent": {
+                "agent": 56,
+                "customer": 37,
+                "avg": 45
+            }
+        },
+        "commonTerms": [
+            "store",
+            "items",
+            "jacket",
+            "zipper",
+            "bra",
+            "experiencing",
+            "agents",
+            "you're",
+            "issues",
+            "online",
+            "shirt",
+            "purchased",
+            "hoodie",
+            "sweater",
+            "good",
+            "firsthand",
+            "size",
+            "hear",
+            "return",
+            "sweater",
+            "long",
+            "tank",
+            "find",
+            "great",
+            "it's",
+            "today",
+            "bag",
+            "issue",
+            "local",
+            "ago"
+        ],
+        "phrases": [
+            {
+                "text": "pockets style number series letters digits around size",
+                "occurences": 223,
+                "intensity": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "type": "dark"
+                    },
+                    {
+                        "start": 14,
+                        "end": 19,
+                        "type": "dark"
+                    },
+                    {
+                        "start": 21,
+                        "end": 26,
+                        "type": "light"
+                    },
+                    {
+                        "start": 28,
+                        "end": 34,
+                        "type": "med"
+                    },
+                    {
+                        "start": 36,
+                        "end": 41,
+                        "type": "light"
+                    }
+                ]
+            },
+            {
+                "text": "wear tear inevitably happen time",
+                "occurences": 229,
+                "intensity": []
+            },
+            {
+                "text": "external force natural wear tear",
+                "occurences": 264,
+                "intensity": []
+            },
+            {
+                "text": "quality promise covers manufacturing",
+                "occurences": 341,
+                "intensity": []
+            }
+        ]
+    },
+    {
+        "topicNumber": 8,
+        "topicName": "customer uploading photos for a return",
+        "interactions": 70,
+        "basicStats": {
+            "wordCount": {
+                "avg": 467,
+                "min": 203,
+                "max": 798
+            },
+            "complexityPercent": {
+                "agent": 56,
+                "customer": 37,
+                "avg": 45
+            }
+        },
+        "commonTerms": [
+            "photos",
+            "number",
+            "share",
+            "you're",
+            "send",
+            "item",
+            "back",
+            "days",
+            "issue",
+            "email",
+            "link",
+            "items",
+            "business",
+            "experiencing",
+            "incident",
+            "team",
+            "url",
+            "returns",
+            "steps",
+            "show",
+            "details",
+            "upload",
+            "we'll",
+            "include",
+            "specific",
+            "entire",
+            "pictures",
+            "issues",
+            "understand",
+            "purchased"
+        ],
+        "phrases": [
+            {
+                "text": "pockets style number series letters digits around size",
+                "occurences": 223,
+                "intensity": [
+                    {
+                        "start": 0,
+                        "end": 6,
+                        "type": "dark"
+                    },
+                    {
+                        "start": 14,
+                        "end": 19,
+                        "type": "dark"
+                    },
+                    {
+                        "start": 21,
+                        "end": 26,
+                        "type": "light"
+                    },
+                    {
+                        "start": 28,
+                        "end": 34,
+                        "type": "med"
+                    },
+                    {
+                        "start": 36,
+                        "end": 41,
+                        "type": "light"
+                    }
+                ]
+            },
+            {
+                "text": "wear tear inevitably happen time",
+                "occurences": 229,
+                "intensity": []
+            },
+            {
+                "text": "external force natural wear tear",
+                "occurences": 264,
+                "intensity": []
+            },
+            {
+                "text": "quality promise covers manufacturing",
+                "occurences": 341,
+                "intensity": []
+            }
+        ]
+    }
+]
